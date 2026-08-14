@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Blues Intelligence Mix",
+        "source_song": "blues.00000.wav",
+        "genre": "blues",
+        "confidence": 71.5,
+        "tempo": 123.05,
+        "energy": 65.09,
+        "brightness": 35.68,
+        "rhythm": 41.52,
+        "profile": "Blues · Medium Tempo · Medium Energy · Medium Brightness",
+        "recommendations": [
+            "🎸 Blues Classics & Soulful Grooves",
+            "🌟 Balanced Everyday Listening Mix",
+            "🚗 Mid-Tempo Drive & Lifestyle Mix",
+            "🎶 Balanced Tonal Soundscape"
+        ],
+        "created_at": "2026-08-14 09:07:50"
+    },
+    {
+        "name": "Hiphop Intelligence Mix",
+        "source_song": "hiphop.00096.wav",
+        "genre": "hiphop",
+        "confidence": 72.5,
+        "tempo": 107.67,
+        "energy": 55.39,
+        "brightness": 35.05,
+        "rhythm": 41.56,
+        "profile": "Hiphop · Medium Tempo · Medium Energy · Medium Brightness",
+        "recommendations": [
+            "🎤 Hip-Hop Beats & Urban Flow",
+            "🌟 Balanced Everyday Listening Mix",
+            "🚗 Mid-Tempo Drive & Lifestyle Mix",
+            "🎶 Balanced Tonal Soundscape"
+        ],
+        "created_at": "2026-08-14 09:09:17"
+    }
+]
